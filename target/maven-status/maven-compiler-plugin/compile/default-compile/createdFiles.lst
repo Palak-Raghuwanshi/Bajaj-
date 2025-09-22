@@ -1,0 +1,5 @@
+com\example\assessment\finserv\dto\SolutionRequest.class
+com\example\assessment\finserv\AssessmentApplication.class
+com\example\assessment\finserv\dto\WebhookResponse.class
+com\example\assessment\finserv\WebhookService.class
+com\example\assessment\finserv\StartupOperation.class
